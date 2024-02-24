@@ -3,7 +3,7 @@ TP-Link PSK Wordlist Generator (passgen.py)
 
 Overview:
 
-passgen.py is a Python script that generates default password wordlists for TP-Link devices, reflecting their default Wi-Fi Protected Setup (WPS) keys. As TP-Link devices come with default passwords consisting of only 8 digits and users not always change them it leaves them susceptible to dictionary attacks.
+Passgen is a Python script that generates default password wordlists for TP-Link devices, identical to their default WPS keys. As TP-Link devices come with default passwords consisting of only 8 digits and users do not always change them it leaves APs susceptible to dictionary attacks like this.
 
 Security Concern:
 
